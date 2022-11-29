@@ -42,4 +42,4 @@ def solucion(n:int) -> None:
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
-    solucion(10)
+    solucion(8)
