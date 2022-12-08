@@ -56,5 +56,4 @@ def funcion_4(n:int) -> list[list[int]]:
 if __name__ == "__name__":
     import doctest
     doctest.testmod()
-    funcion_1(4)
-
+    funcion_4(4)
